@@ -1,0 +1,29 @@
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#log-in {
+    padding-top: 400px;
+    padding: 100px;
+    margin: auto;
+}
+
+#sign-up {
+    padding: 100px;
+    margin: auto;
+}
+
+
+.message {
+    padding: 300px;
+    background-color: #91DDCF;
+    border-radius: 20px;
+}
+
+.card {
+    padding: 300px;
+    padding-bottom: 100px;
+    background-color: #91DDCF;
+    border-radius: 20px;
+}
